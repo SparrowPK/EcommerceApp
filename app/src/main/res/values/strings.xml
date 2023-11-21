@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="product_title">Product Title</string>
+    <string name="description">description</string>
+    <string name="original_price"><strike> 5,899 </strike> </string>
+    <string name="dot">.</string>
+</resources>

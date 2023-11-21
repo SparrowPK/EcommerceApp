@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="desciptionColor">#878787</color>
+    <color name="categoryColor">#26A541</color>
+    <color name="categoryBgColor">#E7FFEC</color>
+    <color name="tool_bar_color">#2F4097</color>
+</resources>
